@@ -1,2 +1,2 @@
-# EstacaoHack-from-Facebook-Front-End
-Front End Web Development Training from Facebook
+# Hack-Front-End
+Front End Web Development Training
